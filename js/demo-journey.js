@@ -57,7 +57,7 @@
       apply: function () {
         if (heroLede) {
           heroLede.textContent =
-            'Residential electrical, panels, and wiring. Across Moreno Valley and the Inland Empire. Kenneth looks at the job first and puts the price in writing.';
+            'Residential electrical, panels, and wiring in Moreno Valley. Kenneth looks at the job first and puts the price in writing.';
         }
       }
     },
